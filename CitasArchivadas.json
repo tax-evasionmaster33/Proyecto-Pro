@@ -1,0 +1,56 @@
+{
+    "2026-01-16": [
+        {
+            "pais": "España",
+            "fecha": "2026-01-16",
+            "hora": "09:00",
+            "duracion": 50,
+            "trabajadora": "Yuli",
+            "recursos_usados": [
+                "Laptop",
+                "Planilla"
+            ],
+            "Telefono": "+53 55650237"
+        }
+    ],
+    "2026-01-22": [
+        {
+            "pais": "España",
+            "fecha": "2026-01-22",
+            "hora": "10:15",
+            "duracion": 30,
+            "trabajadora": "Yuli",
+            "recursos_usados": [
+                "Laptop",
+                "Escaner"
+            ]
+        }
+    ],
+    "2026-01-21": [
+        {
+            "pais": "EEUU",
+            "fecha": "2026-01-21",
+            "hora": "17:30",
+            "duracion": 50,
+            "trabajadora": "Yanara",
+            "recursos_usados": [
+                "Laptop"
+            ],
+            "Telefono": "+53 54135482"
+        }
+    ],
+    "2026-01-19": [
+        {
+            "pais": "EEUU",
+            "fecha": "2026-01-19",
+            "hora": "09:00",
+            "duracion": 50,
+            "trabajadora": "Yanara",
+            "recursos_usados": [
+                "Planilla",
+                "Laptop"
+            ],
+            "Telefono": "+53 55650237"
+        }
+    ]
+}

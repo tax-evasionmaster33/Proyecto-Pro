@@ -1,0 +1,201 @@
+[
+    {
+        "Tipo_Tramite": "Testeo",
+        "pais": "Brasil",
+        "fecha": "2026-02-04",
+        "hora": "11:30",
+        "duracion": 30,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop"
+        ],
+        "Telefono": "+53 53273608"
+    },
+    {
+        "Tipo_Tramite": "Testeo",
+        "pais": "Brasil",
+        "fecha": "2026-02-05",
+        "hora": "13:45",
+        "duracion": 80,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop"
+        ],
+        "Telefono": "+53 53273608"
+    },
+    {
+        "Tipo_Tramite": "Lmd",
+        "pais": "España",
+        "fecha": "2026-02-11",
+        "hora": "09:00",
+        "duracion": 50,
+        "trabajadora": "Zahili",
+        "recursos_usados": [
+            "Laptop",
+            "Escaner"
+        ],
+        "Telefono": "+53 55454545"
+    },
+    {
+        "Tipo_Tramite": "Testeo",
+        "pais": "Turkia",
+        "fecha": "2026-02-04",
+        "hora": "09:00",
+        "duracion": 45,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Laptop"
+        ],
+        "Telefono": "+53 55650237"
+    },
+    {
+        "Tipo_Tramite": "Testeo",
+        "pais": "Turkia",
+        "fecha": "2026-02-04",
+        "hora": "09:45",
+        "duracion": 45,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Laptop"
+        ],
+        "Telefono": "+53 55650237"
+    },
+    {
+        "Tipo_Tramite": "Testeo",
+        "pais": "Turkia",
+        "fecha": "2026-02-04",
+        "hora": "10:30",
+        "duracion": 45,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Laptop"
+        ],
+        "Telefono": "+53 55650237"
+    },
+    {
+        "Tipo_Tramite": "Lmd",
+        "pais": "España",
+        "fecha": "2026-02-02",
+        "hora": "09:00",
+        "duracion": 50,
+        "trabajadora": "Zahili",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop",
+            "Escaner"
+        ],
+        "Telefono": "+53 56235623"
+    },
+    {
+        "Tipo_Tramite": "Lmd",
+        "pais": "España",
+        "fecha": "2026-02-02",
+        "hora": "10:00",
+        "duracion": 50,
+        "trabajadora": "Zahili",
+        "recursos_usados": [
+            "Planilla"
+        ],
+        "Telefono": "+53 56235623"
+    },
+    {
+        "Tipo_Tramite": "Lmd",
+        "pais": "España",
+        "fecha": "2026-02-02",
+        "hora": "10:00",
+        "duracion": 50,
+        "trabajadora": "Yuli",
+        "recursos_usados": [
+            "Laptop",
+            "Escaner"
+        ],
+        "Telefono": "+53 56235623"
+    },
+    {
+        "Tipo_Tramite": "Lmd",
+        "pais": "España",
+        "fecha": "2026-02-02",
+        "hora": "11:00",
+        "duracion": 50,
+        "trabajadora": "Zahili",
+        "recursos_usados": [
+            "Laptop"
+        ],
+        "Telefono": "+53 55650237"
+    },
+    {
+        "Tipo_Tramite": "Visa turismo",
+        "Nombre": "Esteban ",
+        "Apellido": "Suarez Espinoza",
+        "pais": "EEUU",
+        "fecha": "2026-02-02",
+        "hora": "11:00",
+        "duracion": 50,
+        "trabajadora": "Yanara",
+        "recursos_usados": [
+            "Planilla"
+        ],
+        "Telefono": "+53 55652389"
+    },
+    {
+        "Tipo_Tramite": "Cita de Pasaporte",
+        "Nombre": "Rafael ",
+        "Apellido": "Saumell Baranda",
+        "pais": "España",
+        "fecha": "2026-02-02",
+        "hora": "16:00",
+        "duracion": 20,
+        "trabajadora": "Zahili",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop",
+            "Escaner"
+        ],
+        "Telefono": "+53 55652389"
+    },
+    {
+        "Tipo_Tramite": "Visa turismo",
+        "Nombre": "Rafael ",
+        "Apellido": "Saumell Baranda",
+        "pais": "EEUU",
+        "fecha": "2026-02-10",
+        "hora": "09:00",
+        "duracion": 50,
+        "trabajadora": "Yanara",
+        "recursos_usados": [
+            "Planilla"
+        ],
+        "Telefono": "+53 55652389"
+    },
+    {
+        "Tipo_Tramite": "Lmd",
+        "Nombre": "Rafael ",
+        "Apellido": "Saumell Baranda",
+        "pais": "España",
+        "fecha": "2026-02-10",
+        "hora": "09:00",
+        "duracion": 50,
+        "trabajadora": "Zahili",
+        "recursos_usados": [
+            "Laptop"
+        ],
+        "Telefono": "+53 55652389"
+    },
+    {
+        "Tipo_Tramite": "Visa Turismo",
+        "Nombre": "Lucia ",
+        "Apellido": "Saumell Baranda",
+        "pais": "Brasil",
+        "fecha": "2026-02-24",
+        "hora": "13:00",
+        "duracion": 80,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Laptop Dania",
+            "Escaner"
+        ],
+        "Telefono": "+53 58402597"
+    }
+]
