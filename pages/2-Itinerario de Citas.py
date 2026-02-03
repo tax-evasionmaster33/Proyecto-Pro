@@ -58,6 +58,13 @@ with tab_archivadas:
         )
 
 
+Todas_Citas = st.checkbox("Haga click si desea ver todas las citas")
+if Todas_Citas:
+    cargar_todo = cargar_citas_activas()
+    st.dataframe(cargar_todo)
+
+
+
 
 
 
