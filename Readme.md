@@ -14,7 +14,7 @@
 
 Para instalar todas las librerías necesarias de un "tirón" escribe lo siguiente en la terminal: pip install -r requirements.txt
 
-    Sobre las Citas,RECURSOS y RESTRICCIONES 👀:
+    Sobre las Citas,Recursos y Restricciones 👀:
 
 Citas(Eventos): Cada tipo de cita tiene diferentes requisitos tales como Recursos asociados y distintas Horarios o duracion:
 
@@ -31,6 +31,7 @@ Restricciones ❌: Entre los recursos existen una serie de restricciones que ref
         Canada --> Betsy
     Esto no solo se aplica a tramitadora tambien a recursos indispensables para su correcto agendado:
      (ESto se puede ver mas detallado en Restricciones en la seccion de Co-Requsitos)
+->El tema de uso de las laptops no se adhiere estrictamente al uso de solo su dueno mientras q se encuentra en la misma categoria e pais
 
 ⚠️ IMPORTANTE!: Hay un recurso q no se muestra pero como tal es el nucleo al cual rodea el software y es el tiempo, este es asimilado como recurso y tiene como principio que durante un periodo determinado por el tipo de cita no se pueda establecer o agendar otra cita q use los mismos recursos ya sean materiales o de Fuerza de Trabajo      
 
