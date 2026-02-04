@@ -95,40 +95,45 @@ Features:
 
 Para poder clonar e iniciar el proyecto siga los paso mencionados a continuación,:
 
+   Prerrequisitos
+      Asegúrate de tener instalado en tu sistema:
 
-Prerrequisitos
-Asegúrate de tener instalado en tu sistema:
+      Python 3.7 o superior
+      Git
+      pip (generalmente viene con Python)
 
-Python 3.7 o superior
-Git
-pip (generalmente viene con Python)
 Instalación y Ejecución
-Clonar el Repositorio
-
-git clone https://github.com/tax-evasionmaster33/nombre proyecto 
-cd Poner nombre 
+   Clonar el Repositorio
+      
+      git clone https://github.com/tax-evasionmaster33/Proyecto-Pro.git
+      cd Proyecto-Pro
 
 Crear y Activar un Entorno Virtual (Recomendado) Es buena práctica aislar las dependencias del proyecto.
 
-En Windows:
-python -m venv venv
-venv\Scripts\activate
+   En Windows:
+
+      python -m venv venv
+      venv\Scripts\activate
 
 En macOS/Linux:
 
-python3 -m venv venv
-source venv/bin/activate
+      python3 -m venv venv
+      source venv/bin/activate
 
 Instalar las Dependencias Con el entorno virtual activado, instala las librerías necesarias:
 
-pip install streamlit pandas
+      pip install streamlit pandas
+
 (Opcional) Si existe un archivo requirements.txt, puedes usarlo:
 
-pip install -r requirements.txt
+      pip install -r requirements.txt
+
 Ejecutar la Aplicación ¡Lanza la aplicación web de Streamlit!
 
-streamlit run home.py
+      streamlit run Main.py
+
 Automáticamente se abrirá una pestaña en tu navegador predeterminado (generalmente en http://localhost:8501) mostrando la aplicación
+
 
 
 
