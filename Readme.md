@@ -93,7 +93,42 @@ Features:
     1.4->Para poder ver las citas de un dia dado es necesarion en la barra lateral izquierda dar click en la opcion de ITINERARIO DE CITAS donde se mostrara una tabla con todas las citas de un dia dado con todas sus caracteristicas(NOMBRE,APELLIDO,TIPO DE CITA,PAIS,NUMERO TELEFONICO,TRAMITADORA,DURACION,HORA,FECHA) donde se podra buscar dentro de esta por alguna caracteristica en especifico y poder guardarla en formato CSV para futuros reportes.Aparte de esta tabla se encuentra otra opcion q muestra una tabla diferente donde se muestran todas las citas q ya han pasado en el tiempo con las mismas funcionalidades de la tabla anterior 
 
 
+Para poder clonar e iniciar el proyecto siga los paso mencionados a continuación,:
 
+
+Prerrequisitos
+Asegúrate de tener instalado en tu sistema:
+
+Python 3.7 o superior
+Git
+pip (generalmente viene con Python)
+Instalación y Ejecución
+Clonar el Repositorio
+
+git clone https://github.com/tax-evasionmaster33/nombre proyecto 
+cd Poner nombre 
+
+Crear y Activar un Entorno Virtual (Recomendado) Es buena práctica aislar las dependencias del proyecto.
+
+En Windows:
+python -m venv venv
+venv\Scripts\activate
+
+En macOS/Linux:
+
+python3 -m venv venv
+source venv/bin/activate
+
+Instalar las Dependencias Con el entorno virtual activado, instala las librerías necesarias:
+
+pip install streamlit pandas
+(Opcional) Si existe un archivo requirements.txt, puedes usarlo:
+
+pip install -r requirements.txt
+Ejecutar la Aplicación ¡Lanza la aplicación web de Streamlit!
+
+streamlit run home.py
+Automáticamente se abrirá una pestaña en tu navegador predeterminado (generalmente en http://localhost:8501) mostrando la aplicación
 
 
 
