@@ -59,8 +59,14 @@ Se ha asignado una restriccion con respecto al pais de la Cita donde cada uno de
      (ESto se puede ver mas detallado en Restricciones en la seccion de Co-Requsitos)
     ->El tema de uso de las laptops no se adhiere estrictamente al uso de solo su dueno mientras q se encuentra en la misma categoria de pais
 
-⚠️ IMPORTANTE!: Hay un recurso q no se muestra pero como tal es el nucleo al cual rodea el software y es el tiempo, este es asimilado como recurso y tiene como principio que durante un periodo determinado por el tipo de cita no se pueda establecer o agendar otra cita q use los mismos recursos ya sean materiales o de Fuerza de Trabajo      
+⚠️ IMPORTANTE!: 
 
+      Hay un recurso q no se muestra pero como tal es el nucleo al cual rodea el software y es el tiempo, este es asimilado como recurso y tiene como principio que durante un periodo determinado por el tipo de cita no se pueda          establecer o agendar otra cita q use los mismos recursos ya sean materiales o de Fuerza de Trabajo 
+
+!! Con Respecto a los horarios Se les ha asignado un Espaciado de 15 min a la hora de agendar Porque Cada cita tiene una duracion basada aprox en un multiplo de 5 menor q 60 y para asi brindar la posibilidad de si terminas antes una cita poder hacer preparativos para la proxima antes de tiempo !!
+   
+Cumplimiento de los Requisitos y Co-Reqsuisitos
+    
     Co-requisito: Un recurso necesita a otro Ej:Yuli o Zahili siendo recursos designados como fuerza de trabajo necesitan de al menos otro recurso clasificado como material  
     Exclusión: Un recurso no puede estar junto a otro en una misma cita Ej: si en una cita de España se necesita a Yuli o a Zahili, no se puede tener  a las dos a modo de poder Agendar mas citas sin errores de superposicion. Lo mismo para las otras trabajadoras
 
