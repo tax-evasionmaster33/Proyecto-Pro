@@ -1,42 +1,327 @@
 [
     {
-        "Tipo_Tramite": "Lmd",
-        "Nombre": "Manolo",
-        "Apellido": "SAUMELL BARANDA",
-        "pais": "España",
-        "fecha": "2026-06-25",
-        "hora": "09:00",
-        "duracion": 50,
-        "trabajadora": "Zahili",
+        "Tipo_Tramite": "Visa Turismo",
+        "Nombre": "Rosa",
+        "Apellido": "López",
+        "pais": "Turkia",
+        "fecha": "2026-07-06",
+        "hora": "09:30",
+        "duracion": 45,
+        "trabajadora": "Dania",
         "recursos_usados": [
             "Planilla",
-            "Laptop Zahili",
             "Escaner",
-            "Impresora"
+            "Laptop Dania"
         ],
-        "Telefono": "+53 55650237"
+        "Telefono": "+53 91840061"
     },
     {
         "Tipo_Tramite": "Lmd",
-        "Nombre": "Manolo",
-        "Apellido": "SAUMELL BARANDA",
+        "Nombre": "Rosa",
+        "Apellido": "Morales",
         "pais": "España",
-        "fecha": "2026-06-25",
-        "hora": "09:00",
+        "fecha": "2026-07-06",
+        "hora": "11:15",
         "duracion": 50,
         "trabajadora": "Yuli",
         "recursos_usados": [
-            "Laptop Yuli"
+            "Planilla",
+            "Laptop Yuli",
+            "Escaner",
+            "Impresora"
         ],
-        "Telefono": "+53 55650237"
+        "Telefono": "+53 39385130"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Marta",
+        "Apellido": "de la Torre",
+        "pais": "Brasil",
+        "fecha": "2026-07-09",
+        "hora": "09:45",
+        "duracion": 30,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Laptop Dania",
+            "Escaner"
+        ],
+        "Telefono": "+53 62744465"
+    },
+    {
+        "Tipo_Tramite": "Visa Turismo",
+        "Nombre": "Isabel",
+        "Apellido": "de la Torre",
+        "pais": "Brasil",
+        "fecha": "2026-06-30",
+        "hora": "10:15",
+        "duracion": 80,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Laptop Dania",
+            "Escaner"
+        ],
+        "Telefono": "+53 82996307"
+    },
+    {
+        "Tipo_Tramite": "Visa turismo",
+        "Nombre": "Ana",
+        "Apellido": "Martínez",
+        "pais": "EEUU",
+        "fecha": "2026-07-24",
+        "hora": "10:45",
+        "duracion": 50,
+        "trabajadora": "Yanara",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Yanara"
+        ],
+        "Telefono": "+53 60776742"
+    },
+    {
+        "Tipo_Tramite": "Visa turismo",
+        "Nombre": "Elena",
+        "Apellido": "de la Torre",
+        "pais": "Canadá",
+        "fecha": "2026-07-09",
+        "hora": "11:30",
+        "duracion": 80,
+        "trabajadora": "Betsy",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Betsy",
+            "Escaner"
+        ],
+        "Telefono": "+53 53859447"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Ana",
+        "Apellido": "Pérez",
+        "pais": "Brasil",
+        "fecha": "2026-07-09",
+        "hora": "16:00",
+        "duracion": 30,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Laptop Dania",
+            "Escaner"
+        ],
+        "Telefono": "+53 21502524"
     },
     {
         "Tipo_Tramite": "Lmd",
-        "Nombre": "RAFAEL",
-        "Apellido": "SAUMELL BARANDA",
+        "Nombre": "Sofía",
+        "Apellido": "Sánchez",
         "pais": "España",
-        "fecha": "2026-06-24",
-        "hora": "10:00",
+        "fecha": "2026-07-01",
+        "hora": "15:15",
+        "duracion": 50,
+        "trabajadora": "Yuli",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Yuli",
+            "Escaner",
+            "Impresora"
+        ],
+        "Telefono": "+53 83615900"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Carlos",
+        "Apellido": "Díaz",
+        "pais": "Brasil",
+        "fecha": "2026-07-03",
+        "hora": "16:15",
+        "duracion": 30,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Laptop Dania",
+            "Escaner"
+        ],
+        "Telefono": "+53 88165384"
+    },
+    {
+        "Tipo_Tramite": "Visa turismo",
+        "Nombre": "Carmen",
+        "Apellido": "Morales",
+        "pais": "EEUU",
+        "fecha": "2026-07-23",
+        "hora": "10:15",
+        "duracion": 50,
+        "trabajadora": "Yanara",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Yanara"
+        ],
+        "Telefono": "+53 78163461"
+    },
+    {
+        "Tipo_Tramite": "Visa turismo",
+        "Nombre": "Ana",
+        "Apellido": "de la Torre",
+        "pais": "Canadá",
+        "fecha": "2026-06-26",
+        "hora": "16:45",
+        "duracion": 80,
+        "trabajadora": "Betsy",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Betsy",
+            "Escaner"
+        ],
+        "Telefono": "+53 75865653"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Julio",
+        "Apellido": "Pérez",
+        "pais": "Turkia",
+        "fecha": "2026-07-20",
+        "hora": "09:45",
+        "duracion": 20,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Planilla",
+            "Escaner",
+            "Laptop Dania"
+        ],
+        "Telefono": "+53 44226720"
+    },
+    {
+        "Tipo_Tramite": "Transcripción de Matrimonio",
+        "Nombre": "Sofía",
+        "Apellido": "García",
+        "pais": "España",
+        "fecha": "2026-07-21",
+        "hora": "15:30",
+        "duracion": 40,
+        "trabajadora": "Yuli",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Yuli",
+            "Escaner",
+            "Impresora"
+        ],
+        "Telefono": "+53 56843532"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Miguel",
+        "Apellido": "Jiménez",
+        "pais": "Turkia",
+        "fecha": "2026-07-13",
+        "hora": "10:30",
+        "duracion": 20,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Planilla",
+            "Escaner",
+            "Laptop Dania"
+        ],
+        "Telefono": "+53 32354700"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "José",
+        "Apellido": "Ramírez",
+        "pais": "Canadá",
+        "fecha": "2026-06-25",
+        "hora": "16:15",
+        "duracion": 30,
+        "trabajadora": "Betsy",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Betsy",
+            "Escaner"
+        ],
+        "Telefono": "+53 47182234"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "José",
+        "Apellido": "Pérez",
+        "pais": "EEUU",
+        "fecha": "2026-07-09",
+        "hora": "11:00",
+        "duracion": 20,
+        "trabajadora": "Yanara",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Yanara"
+        ],
+        "Telefono": "+53 67371409"
+    },
+    {
+        "Tipo_Tramite": "Transcripción de Matrimonio",
+        "Nombre": "José",
+        "Apellido": "Jiménez",
+        "pais": "España",
+        "fecha": "2026-07-21",
+        "hora": "09:00",
+        "duracion": 40,
+        "trabajadora": "Zahili",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Zahili",
+            "Escaner",
+            "Impresora"
+        ],
+        "Telefono": "+53 03909236"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Diego",
+        "Apellido": "López",
+        "pais": "Brasil",
+        "fecha": "2026-07-08",
+        "hora": "15:30",
+        "duracion": 30,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Laptop Dania",
+            "Escaner"
+        ],
+        "Telefono": "+53 14695177"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Carlos",
+        "Apellido": "Ramírez",
+        "pais": "EEUU",
+        "fecha": "2026-06-29",
+        "hora": "13:30",
+        "duracion": 20,
+        "trabajadora": "Yanara",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Yanara"
+        ],
+        "Telefono": "+53 88311632"
+    },
+    {
+        "Tipo_Tramite": "Transcripción de Matrimonio",
+        "Nombre": "Diego",
+        "Apellido": "García",
+        "pais": "España",
+        "fecha": "2026-07-16",
+        "hora": "09:30",
+        "duracion": 40,
+        "trabajadora": "Zahili",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Zahili",
+            "Escaner",
+            "Impresora"
+        ],
+        "Telefono": "+53 32391004"
+    },
+    {
+        "Tipo_Tramite": "Lmd",
+        "Nombre": "Rosa",
+        "Apellido": "Torres",
+        "pais": "España",
+        "fecha": "2026-06-26",
+        "hora": "15:30",
         "duracion": 50,
         "trabajadora": "Zahili",
         "recursos_usados": [
@@ -45,16 +330,551 @@
             "Escaner",
             "Impresora"
         ],
-        "Telefono": "+53 55650237"
+        "Telefono": "+53 54571945"
     },
     {
-        "Tipo_Tramite": "Lmd",
-        "Nombre": "RAFAEL",
-        "Apellido": "SAUMELL BARANDA",
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Sofía",
+        "Apellido": "Hernández",
+        "pais": "Turkia",
+        "fecha": "2026-07-21",
+        "hora": "10:15",
+        "duracion": 20,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Planilla",
+            "Escaner",
+            "Laptop Dania"
+        ],
+        "Telefono": "+53 18043169"
+    },
+    {
+        "Tipo_Tramite": "Legalización",
+        "Nombre": "Ernesto",
+        "Apellido": "Martínez",
         "pais": "España",
-        "fecha": "2026-06-24",
+        "fecha": "2026-07-16",
+        "hora": "13:45",
+        "duracion": 30,
+        "trabajadora": "Zahili",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Zahili",
+            "Escaner",
+            "Impresora"
+        ],
+        "Telefono": "+53 29175276"
+    },
+    {
+        "Tipo_Tramite": "Visa turismo",
+        "Nombre": "María",
+        "Apellido": "de la Torre",
+        "pais": "Canadá",
+        "fecha": "2026-07-01",
+        "hora": "16:30",
+        "duracion": 80,
+        "trabajadora": "Betsy",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Betsy",
+            "Escaner"
+        ],
+        "Telefono": "+53 68789361"
+    },
+    {
+        "Tipo_Tramite": "Visa Turismo",
+        "Nombre": "Luisa",
+        "Apellido": "de la Torre",
+        "pais": "Turkia",
+        "fecha": "2026-07-17",
+        "hora": "13:00",
+        "duracion": 45,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Planilla",
+            "Escaner",
+            "Laptop Dania"
+        ],
+        "Telefono": "+53 24885637"
+    },
+    {
+        "Tipo_Tramite": "Visa turismo",
+        "Nombre": "Diego",
+        "Apellido": "López",
+        "pais": "EEUU",
+        "fecha": "2026-07-22",
+        "hora": "10:15",
+        "duracion": 50,
+        "trabajadora": "Yanara",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Yanara"
+        ],
+        "Telefono": "+53 41773266"
+    },
+    {
+        "Tipo_Tramite": "Visado",
+        "Nombre": "Marta",
+        "Apellido": "Torres",
+        "pais": "España",
+        "fecha": "2026-07-08",
+        "hora": "10:15",
+        "duracion": 30,
+        "trabajadora": "Zahili",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Zahili",
+            "Escaner",
+            "Impresora"
+        ],
+        "Telefono": "+53 06575414"
+    },
+    {
+        "Tipo_Tramite": "Visa turismo",
+        "Nombre": "Sofía",
+        "Apellido": "García",
+        "pais": "EEUU",
+        "fecha": "2026-07-10",
+        "hora": "13:45",
+        "duracion": 50,
+        "trabajadora": "Yanara",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Yanara"
+        ],
+        "Telefono": "+53 83859713"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "José",
+        "Apellido": "Jiménez",
+        "pais": "Turkia",
+        "fecha": "2026-07-02",
+        "hora": "10:00",
+        "duracion": 20,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Planilla",
+            "Escaner",
+            "Laptop Dania"
+        ],
+        "Telefono": "+53 29106176"
+    },
+    {
+        "Tipo_Tramite": "Visa turismo",
+        "Nombre": "María",
+        "Apellido": "García",
+        "pais": "EEUU",
+        "fecha": "2026-07-02",
+        "hora": "10:45",
+        "duracion": 50,
+        "trabajadora": "Yanara",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Yanara"
+        ],
+        "Telefono": "+53 22091807"
+    },
+    {
+        "Tipo_Tramite": "Visa turismo",
+        "Nombre": "Julio",
+        "Apellido": "Morales",
+        "pais": "EEUU",
+        "fecha": "2026-07-13",
+        "hora": "17:30",
+        "duracion": 50,
+        "trabajadora": "Yanara",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Yanara"
+        ],
+        "Telefono": "+53 40519762"
+    },
+    {
+        "Tipo_Tramite": "Legalización",
+        "Nombre": "Pedro",
+        "Apellido": "Sánchez",
+        "pais": "España",
+        "fecha": "2026-06-30",
+        "hora": "11:45",
+        "duracion": 30,
+        "trabajadora": "Yuli",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Yuli",
+            "Escaner",
+            "Impresora"
+        ],
+        "Telefono": "+53 27704237"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Carmen",
+        "Apellido": "Jiménez",
+        "pais": "Turkia",
+        "fecha": "2026-07-08",
+        "hora": "14:00",
+        "duracion": 20,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Planilla",
+            "Escaner",
+            "Laptop Dania"
+        ],
+        "Telefono": "+53 06893442"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Fernando",
+        "Apellido": "Flores",
+        "pais": "Brasil",
+        "fecha": "2026-06-30",
+        "hora": "15:45",
+        "duracion": 30,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Laptop Dania",
+            "Escaner"
+        ],
+        "Telefono": "+53 70274937"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Sofía",
+        "Apellido": "Díaz",
+        "pais": "Canadá",
+        "fecha": "2026-06-26",
+        "hora": "09:15",
+        "duracion": 30,
+        "trabajadora": "Betsy",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Betsy",
+            "Escaner"
+        ],
+        "Telefono": "+53 46728152"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Isabel",
+        "Apellido": "Pérez",
+        "pais": "Brasil",
+        "fecha": "2026-07-02",
+        "hora": "16:45",
+        "duracion": 30,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Laptop Dania",
+            "Escaner"
+        ],
+        "Telefono": "+53 01116473"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Miguel",
+        "Apellido": "Ramírez",
+        "pais": "Canadá",
+        "fecha": "2026-07-07",
+        "hora": "11:45",
+        "duracion": 30,
+        "trabajadora": "Betsy",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Betsy",
+            "Escaner"
+        ],
+        "Telefono": "+53 48151368"
+    },
+    {
+        "Tipo_Tramite": "Visa Turismo",
+        "Nombre": "Luisa",
+        "Apellido": "Pérez",
+        "pais": "Turkia",
+        "fecha": "2026-07-17",
+        "hora": "11:45",
+        "duracion": 45,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Planilla",
+            "Escaner",
+            "Laptop Dania"
+        ],
+        "Telefono": "+53 81657507"
+    },
+    {
+        "Tipo_Tramite": "Visa Turismo",
+        "Nombre": "Luisa",
+        "Apellido": "Díaz",
+        "pais": "Turkia",
+        "fecha": "2026-07-14",
+        "hora": "14:30",
+        "duracion": 45,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Planilla",
+            "Escaner",
+            "Laptop Dania"
+        ],
+        "Telefono": "+53 40956685"
+    },
+    {
+        "Tipo_Tramite": "Visa turismo",
+        "Nombre": "Rosa",
+        "Apellido": "de la Torre",
+        "pais": "Canadá",
+        "fecha": "2026-07-17",
+        "hora": "16:00",
+        "duracion": 80,
+        "trabajadora": "Betsy",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Betsy",
+            "Escaner"
+        ],
+        "Telefono": "+53 53180000"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "María",
+        "Apellido": "Jiménez",
+        "pais": "Turkia",
+        "fecha": "2026-07-01",
+        "hora": "09:30",
+        "duracion": 20,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Planilla",
+            "Escaner",
+            "Laptop Dania"
+        ],
+        "Telefono": "+53 21248204"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Marta",
+        "Apellido": "Ramírez",
+        "pais": "Turkia",
+        "fecha": "2026-07-07",
+        "hora": "09:30",
+        "duracion": 20,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Planilla",
+            "Escaner",
+            "Laptop Dania"
+        ],
+        "Telefono": "+53 10418422"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Pedro",
+        "Apellido": "Torres",
+        "pais": "Brasil",
+        "fecha": "2026-07-01",
+        "hora": "10:00",
+        "duracion": 30,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Laptop Dania",
+            "Escaner"
+        ],
+        "Telefono": "+53 70769864"
+    },
+    {
+        "Tipo_Tramite": "Visa trabajo",
+        "Nombre": "Pedro",
+        "Apellido": "Martínez",
+        "pais": "EEUU",
+        "fecha": "2026-07-20",
         "hora": "11:00",
         "duracion": 50,
+        "trabajadora": "Yanara",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Yanara"
+        ],
+        "Telefono": "+53 70996805"
+    },
+    {
+        "Tipo_Tramite": "Visa turismo",
+        "Nombre": "José",
+        "Apellido": "Pérez",
+        "pais": "Canadá",
+        "fecha": "2026-07-07",
+        "hora": "14:00",
+        "duracion": 80,
+        "trabajadora": "Betsy",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Betsy",
+            "Escaner"
+        ],
+        "Telefono": "+53 06888034"
+    },
+    {
+        "Tipo_Tramite": "Visa Turismo",
+        "Nombre": "Julio",
+        "Apellido": "Sánchez",
+        "pais": "Brasil",
+        "fecha": "2026-07-23",
+        "hora": "11:00",
+        "duracion": 80,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Laptop Dania",
+            "Escaner"
+        ],
+        "Telefono": "+53 01849397"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Fernando",
+        "Apellido": "Morales",
+        "pais": "Brasil",
+        "fecha": "2026-07-13",
+        "hora": "11:15",
+        "duracion": 30,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Laptop Dania",
+            "Escaner"
+        ],
+        "Telefono": "+53 49855415"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Carmen",
+        "Apellido": "López",
+        "pais": "Brasil",
+        "fecha": "2026-07-09",
+        "hora": "13:00",
+        "duracion": 30,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Laptop Dania",
+            "Escaner"
+        ],
+        "Telefono": "+53 40583017"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Fernando",
+        "Apellido": "Torres",
+        "pais": "Canadá",
+        "fecha": "2026-07-02",
+        "hora": "09:15",
+        "duracion": 30,
+        "trabajadora": "Betsy",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Betsy",
+            "Escaner"
+        ],
+        "Telefono": "+53 38165973"
+    },
+    {
+        "Tipo_Tramite": "Transcripción de Matrimonio",
+        "Nombre": "Isabel",
+        "Apellido": "Ramírez",
+        "pais": "España",
+        "fecha": "2026-06-26",
+        "hora": "13:30",
+        "duracion": 40,
+        "trabajadora": "Yuli",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Yuli",
+            "Escaner",
+            "Impresora"
+        ],
+        "Telefono": "+53 27828011"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "José",
+        "Apellido": "de la Torre",
+        "pais": "Turkia",
+        "fecha": "2026-06-29",
+        "hora": "10:45",
+        "duracion": 20,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Planilla",
+            "Escaner",
+            "Laptop Dania"
+        ],
+        "Telefono": "+53 72781132"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "José",
+        "Apellido": "Torres",
+        "pais": "Turkia",
+        "fecha": "2026-07-24",
+        "hora": "09:15",
+        "duracion": 20,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Planilla",
+            "Escaner",
+            "Laptop Dania"
+        ],
+        "Telefono": "+53 98740336"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Carlos",
+        "Apellido": "Rodríguez",
+        "pais": "EEUU",
+        "fecha": "2026-07-09",
+        "hora": "15:30",
+        "duracion": 20,
+        "trabajadora": "Yanara",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Yanara"
+        ],
+        "Telefono": "+53 24892959"
+    },
+    {
+        "Tipo_Tramite": "Visa Turismo",
+        "Nombre": "Carlos",
+        "Apellido": "Ramírez",
+        "pais": "Turkia",
+        "fecha": "2026-07-17",
+        "hora": "10:45",
+        "duracion": 45,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Planilla",
+            "Escaner",
+            "Laptop Dania"
+        ],
+        "Telefono": "+53 05681916"
+    },
+    {
+        "Tipo_Tramite": "Visa turismo",
+        "Nombre": "Miguel",
+        "Apellido": "Morales",
+        "pais": "EEUU",
+        "fecha": "2026-06-30",
+        "hora": "10:00",
+        "duracion": 50,
+        "trabajadora": "Yanara",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Yanara"
+        ],
+        "Telefono": "+53 22950320"
+    },
+    {
+        "Tipo_Tramite": "Visado",
+        "Nombre": "Elena",
+        "Apellido": "Morales",
+        "pais": "España",
+        "fecha": "2026-07-09",
+        "hora": "16:45",
+        "duracion": 30,
         "trabajadora": "Zahili",
         "recursos_usados": [
             "Planilla",
@@ -62,6 +882,667 @@
             "Escaner",
             "Impresora"
         ],
-        "Telefono": "+53 55650237"
+        "Telefono": "+53 32406896"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "María",
+        "Apellido": "de la Torre",
+        "pais": "Brasil",
+        "fecha": "2026-07-13",
+        "hora": "14:15",
+        "duracion": 30,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Laptop Dania",
+            "Escaner"
+        ],
+        "Telefono": "+53 96705566"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Rosa",
+        "Apellido": "Sánchez",
+        "pais": "Canadá",
+        "fecha": "2026-07-10",
+        "hora": "11:00",
+        "duracion": 30,
+        "trabajadora": "Betsy",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Betsy",
+            "Escaner"
+        ],
+        "Telefono": "+53 03422749"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Luisa",
+        "Apellido": "López",
+        "pais": "Brasil",
+        "fecha": "2026-07-06",
+        "hora": "17:30",
+        "duracion": 30,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Laptop Dania",
+            "Escaner"
+        ],
+        "Telefono": "+53 42241572"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Sofía",
+        "Apellido": "Rodríguez",
+        "pais": "Canadá",
+        "fecha": "2026-07-09",
+        "hora": "17:30",
+        "duracion": 30,
+        "trabajadora": "Betsy",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Betsy",
+            "Escaner"
+        ],
+        "Telefono": "+53 40612983"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Carmen",
+        "Apellido": "González",
+        "pais": "Canadá",
+        "fecha": "2026-06-30",
+        "hora": "13:00",
+        "duracion": 30,
+        "trabajadora": "Betsy",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Betsy",
+            "Escaner"
+        ],
+        "Telefono": "+53 70535405"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Luisa",
+        "Apellido": "Rodríguez",
+        "pais": "Canadá",
+        "fecha": "2026-07-03",
+        "hora": "15:45",
+        "duracion": 30,
+        "trabajadora": "Betsy",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Betsy",
+            "Escaner"
+        ],
+        "Telefono": "+53 60295250"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Julio",
+        "Apellido": "López",
+        "pais": "Brasil",
+        "fecha": "2026-07-21",
+        "hora": "14:00",
+        "duracion": 30,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Laptop Dania",
+            "Escaner"
+        ],
+        "Telefono": "+53 32457662"
+    },
+    {
+        "Tipo_Tramite": "Legalización",
+        "Nombre": "Carmen",
+        "Apellido": "Torres",
+        "pais": "España",
+        "fecha": "2026-07-01",
+        "hora": "13:30",
+        "duracion": 30,
+        "trabajadora": "Zahili",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Zahili",
+            "Escaner",
+            "Impresora"
+        ],
+        "Telefono": "+53 63527362"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Roberto",
+        "Apellido": "Jiménez",
+        "pais": "Brasil",
+        "fecha": "2026-07-13",
+        "hora": "15:00",
+        "duracion": 30,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Laptop Dania",
+            "Escaner"
+        ],
+        "Telefono": "+53 80614029"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Miguel",
+        "Apellido": "Hernández",
+        "pais": "Turkia",
+        "fecha": "2026-07-06",
+        "hora": "13:00",
+        "duracion": 20,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Planilla",
+            "Escaner",
+            "Laptop Dania"
+        ],
+        "Telefono": "+53 90523015"
+    },
+    {
+        "Tipo_Tramite": "Visa turismo",
+        "Nombre": "Miguel",
+        "Apellido": "Ramírez",
+        "pais": "Canadá",
+        "fecha": "2026-07-21",
+        "hora": "11:15",
+        "duracion": 80,
+        "trabajadora": "Betsy",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Betsy",
+            "Escaner"
+        ],
+        "Telefono": "+53 65690430"
+    },
+    {
+        "Tipo_Tramite": "Visa turismo",
+        "Nombre": "Miguel",
+        "Apellido": "López",
+        "pais": "EEUU",
+        "fecha": "2026-07-14",
+        "hora": "13:30",
+        "duracion": 50,
+        "trabajadora": "Yanara",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Yanara"
+        ],
+        "Telefono": "+53 43501405"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Elena",
+        "Apellido": "López",
+        "pais": "EEUU",
+        "fecha": "2026-07-13",
+        "hora": "09:00",
+        "duracion": 20,
+        "trabajadora": "Yanara",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Yanara"
+        ],
+        "Telefono": "+53 93057901"
+    },
+    {
+        "Tipo_Tramite": "Visa trabajo",
+        "Nombre": "Carmen",
+        "Apellido": "Pérez",
+        "pais": "EEUU",
+        "fecha": "2026-07-20",
+        "hora": "15:15",
+        "duracion": 50,
+        "trabajadora": "Yanara",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Yanara"
+        ],
+        "Telefono": "+53 18418667"
+    },
+    {
+        "Tipo_Tramite": "Visa turismo",
+        "Nombre": "Pedro",
+        "Apellido": "Flores",
+        "pais": "Canadá",
+        "fecha": "2026-07-16",
+        "hora": "10:45",
+        "duracion": 80,
+        "trabajadora": "Betsy",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Betsy",
+            "Escaner"
+        ],
+        "Telefono": "+53 80012286"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Miguel",
+        "Apellido": "Ramírez",
+        "pais": "EEUU",
+        "fecha": "2026-07-08",
+        "hora": "09:45",
+        "duracion": 20,
+        "trabajadora": "Yanara",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Yanara"
+        ],
+        "Telefono": "+53 39833543"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Luisa",
+        "Apellido": "García",
+        "pais": "Brasil",
+        "fecha": "2026-07-03",
+        "hora": "13:15",
+        "duracion": 30,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Laptop Dania",
+            "Escaner"
+        ],
+        "Telefono": "+53 10537232"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Carmen",
+        "Apellido": "Sánchez",
+        "pais": "EEUU",
+        "fecha": "2026-07-22",
+        "hora": "11:15",
+        "duracion": 20,
+        "trabajadora": "Yanara",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Yanara"
+        ],
+        "Telefono": "+53 85454747"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Julio",
+        "Apellido": "Hernández",
+        "pais": "EEUU",
+        "fecha": "2026-07-07",
+        "hora": "17:30",
+        "duracion": 20,
+        "trabajadora": "Yanara",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Yanara"
+        ],
+        "Telefono": "+53 72442080"
+    },
+    {
+        "Tipo_Tramite": "Visa trabajo",
+        "Nombre": "Julio",
+        "Apellido": "Flores",
+        "pais": "EEUU",
+        "fecha": "2026-07-02",
+        "hora": "13:00",
+        "duracion": 50,
+        "trabajadora": "Yanara",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Yanara"
+        ],
+        "Telefono": "+53 24737679"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Elena",
+        "Apellido": "de la Torre",
+        "pais": "España",
+        "fecha": "2026-07-06",
+        "hora": "13:30",
+        "duracion": 20,
+        "trabajadora": "Yuli",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Yuli",
+            "Escaner",
+            "Impresora"
+        ],
+        "Telefono": "+53 60052563"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Elena",
+        "Apellido": "López",
+        "pais": "España",
+        "fecha": "2026-07-15",
+        "hora": "15:00",
+        "duracion": 20,
+        "trabajadora": "Zahili",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Zahili",
+            "Escaner",
+            "Impresora"
+        ],
+        "Telefono": "+53 31169166"
+    },
+    {
+        "Tipo_Tramite": "Visa turismo",
+        "Nombre": "Roberto",
+        "Apellido": "Díaz",
+        "pais": "Canadá",
+        "fecha": "2026-07-14",
+        "hora": "15:45",
+        "duracion": 80,
+        "trabajadora": "Betsy",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Betsy",
+            "Escaner"
+        ],
+        "Telefono": "+53 52083602"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Carmen",
+        "Apellido": "González",
+        "pais": "Turkia",
+        "fecha": "2026-06-26",
+        "hora": "14:45",
+        "duracion": 20,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Planilla",
+            "Escaner",
+            "Laptop Dania"
+        ],
+        "Telefono": "+53 43796281"
+    },
+    {
+        "Tipo_Tramite": "Visa turismo",
+        "Nombre": "Elena",
+        "Apellido": "Jiménez",
+        "pais": "EEUU",
+        "fecha": "2026-07-21",
+        "hora": "13:30",
+        "duracion": 50,
+        "trabajadora": "Yanara",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Yanara"
+        ],
+        "Telefono": "+53 31767758"
+    },
+    {
+        "Tipo_Tramite": "Visa Turismo",
+        "Nombre": "Julio",
+        "Apellido": "Flores",
+        "pais": "Turkia",
+        "fecha": "2026-07-15",
+        "hora": "15:45",
+        "duracion": 45,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Planilla",
+            "Escaner",
+            "Laptop Dania"
+        ],
+        "Telefono": "+53 59744003"
+    },
+    {
+        "Tipo_Tramite": "Visa Turismo",
+        "Nombre": "Carlos",
+        "Apellido": "Martínez",
+        "pais": "Turkia",
+        "fecha": "2026-07-22",
+        "hora": "13:30",
+        "duracion": 45,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Planilla",
+            "Escaner",
+            "Laptop Dania"
+        ],
+        "Telefono": "+53 34550113"
+    },
+    {
+        "Tipo_Tramite": "Legalización",
+        "Nombre": "Luisa",
+        "Apellido": "Rodríguez",
+        "pais": "España",
+        "fecha": "2026-07-17",
+        "hora": "09:45",
+        "duracion": 30,
+        "trabajadora": "Zahili",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Zahili",
+            "Escaner",
+            "Impresora"
+        ],
+        "Telefono": "+53 62781117"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Miguel",
+        "Apellido": "Díaz",
+        "pais": "Canadá",
+        "fecha": "2026-07-24",
+        "hora": "11:45",
+        "duracion": 30,
+        "trabajadora": "Betsy",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Betsy",
+            "Escaner"
+        ],
+        "Telefono": "+53 47606144"
+    },
+    {
+        "Tipo_Tramite": "Visa turismo",
+        "Nombre": "Ernesto",
+        "Apellido": "Pérez",
+        "pais": "EEUU",
+        "fecha": "2026-07-03",
+        "hora": "14:45",
+        "duracion": 50,
+        "trabajadora": "Yanara",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Yanara"
+        ],
+        "Telefono": "+53 18281819"
+    },
+    {
+        "Tipo_Tramite": "Visa trabajo",
+        "Nombre": "Ernesto",
+        "Apellido": "Jiménez",
+        "pais": "EEUU",
+        "fecha": "2026-07-08",
+        "hora": "17:30",
+        "duracion": 50,
+        "trabajadora": "Yanara",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Yanara"
+        ],
+        "Telefono": "+53 21411304"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Miguel",
+        "Apellido": "Jiménez",
+        "pais": "Turkia",
+        "fecha": "2026-07-23",
+        "hora": "14:45",
+        "duracion": 20,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Planilla",
+            "Escaner",
+            "Laptop Dania"
+        ],
+        "Telefono": "+53 21848301"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Ernesto",
+        "Apellido": "Ramírez",
+        "pais": "Turkia",
+        "fecha": "2026-07-16",
+        "hora": "14:30",
+        "duracion": 20,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Planilla",
+            "Escaner",
+            "Laptop Dania"
+        ],
+        "Telefono": "+53 44812432"
+    },
+    {
+        "Tipo_Tramite": "Visa trabajo",
+        "Nombre": "Marta",
+        "Apellido": "Ramírez",
+        "pais": "EEUU",
+        "fecha": "2026-07-03",
+        "hora": "13:15",
+        "duracion": 50,
+        "trabajadora": "Yanara",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Yanara"
+        ],
+        "Telefono": "+53 76939601"
+    },
+    {
+        "Tipo_Tramite": "Cita de Pasaporte",
+        "Nombre": "Fernando",
+        "Apellido": "Torres",
+        "pais": "España",
+        "fecha": "2026-07-14",
+        "hora": "09:00",
+        "duracion": 20,
+        "trabajadora": "Zahili",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Zahili",
+            "Escaner",
+            "Impresora"
+        ],
+        "Telefono": "+53 75566470"
+    },
+    {
+        "Tipo_Tramite": "Cita de Pasaporte",
+        "Nombre": "Carlos",
+        "Apellido": "Torres",
+        "pais": "España",
+        "fecha": "2026-07-17",
+        "hora": "13:45",
+        "duracion": 20,
+        "trabajadora": "Yuli",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Yuli",
+            "Escaner",
+            "Impresora"
+        ],
+        "Telefono": "+53 11317523"
+    },
+    {
+        "Tipo_Tramite": "Visa Turismo",
+        "Nombre": "Isabel",
+        "Apellido": "Flores",
+        "pais": "Turkia",
+        "fecha": "2026-07-09",
+        "hora": "13:45",
+        "duracion": 45,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Planilla",
+            "Escaner",
+            "Laptop Dania"
+        ],
+        "Telefono": "+53 76957639"
+    },
+    {
+        "Tipo_Tramite": "Transcripción de Matrimonio",
+        "Nombre": "José",
+        "Apellido": "Rodríguez",
+        "pais": "España",
+        "fecha": "2026-07-08",
+        "hora": "13:15",
+        "duracion": 40,
+        "trabajadora": "Zahili",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Zahili",
+            "Escaner",
+            "Impresora"
+        ],
+        "Telefono": "+53 25225997"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "José",
+        "Apellido": "Torres",
+        "pais": "EEUU",
+        "fecha": "2026-07-07",
+        "hora": "15:45",
+        "duracion": 20,
+        "trabajadora": "Yanara",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Yanara"
+        ],
+        "Telefono": "+53 98689305"
+    },
+    {
+        "Tipo_Tramite": "Visa turismo",
+        "Nombre": "Rosa",
+        "Apellido": "García",
+        "pais": "Canadá",
+        "fecha": "2026-07-08",
+        "hora": "16:00",
+        "duracion": 80,
+        "trabajadora": "Betsy",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Betsy",
+            "Escaner"
+        ],
+        "Telefono": "+53 60313914"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "Elena",
+        "Apellido": "Torres",
+        "pais": "EEUU",
+        "fecha": "2026-07-02",
+        "hora": "14:00",
+        "duracion": 20,
+        "trabajadora": "Yanara",
+        "recursos_usados": [
+            "Planilla",
+            "Laptop Yanara"
+        ],
+        "Telefono": "+53 11832238"
+    },
+    {
+        "Tipo_Tramite": "Asesoría",
+        "Nombre": "María",
+        "Apellido": "Sánchez",
+        "pais": "Turkia",
+        "fecha": "2026-07-02",
+        "hora": "17:30",
+        "duracion": 20,
+        "trabajadora": "Dania",
+        "recursos_usados": [
+            "Planilla",
+            "Escaner",
+            "Laptop Dania"
+        ],
+        "Telefono": "+53 67247378"
     }
 ]
